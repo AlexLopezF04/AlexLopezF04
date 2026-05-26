@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=200&section=header&text=Desarrollador%20Full%20Stack%.🇪🇨&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
-
 
 # ¡Hola!👋 Soy Alex 
 
@@ -18,6 +14,7 @@ Un apasionado **Estudiante de Desarrollo de Software** enfocado en crear solucio
 <div align="center">
 
 [![Español](https://img.shields.io/badge/Español-Nativo-FF6B9D?style=for-the-badge&logo=google-translate&logoColor=white)](/)
+
 [![Inglés](https://img.shields.io/badge/Inglés-Intermedio-C77DFF?style=for-the-badge&logo=google-translate&logoColor=white)](/)
 
 </div>
@@ -69,7 +66,3 @@ Here are some ideas to get you started:
 
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24&height=100&section=footer&text=Gracias%20por%20visitar%20mi%20perfil%20%F0%9F%92%96&fontSize=25&fontColor=fff&animation=twinkling" width="100%"/>
-
-</div>
