@@ -14,7 +14,6 @@ Un apasionado **Estudiante de Desarrollo de Software** enfocado en crear solucio
 <div align="center">
 
 [![Español](https://img.shields.io/badge/Español-Nativo-FF6B9D?style=for-the-badge&logo=google-translate&logoColor=white)](/)
-
 [![Inglés](https://img.shields.io/badge/Inglés-Intermedio-C77DFF?style=for-the-badge&logo=google-translate&logoColor=white)](/)
 
 </div>
@@ -36,10 +35,6 @@ Un apasionado **Estudiante de Desarrollo de Software** enfocado en crear solucio
 <td align="center" width="120">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" />
 <br><strong>Java</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" />
-<br><strong>C++</strong>
 </td>
 <td align="center" width="120">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" />
