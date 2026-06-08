@@ -5,7 +5,7 @@
 **Tulcán, Ecuador** 📍
 
 
-Un apasionado **Estudiante de Desarrollo de Software** enfocado en crear soluciones tecnológicas eficientes y seguras. Me encanta explorar tanto el desarrollo Backend como el Frontend, conectar bases[...]
+Un apasionado **Estudiante de Desarrollo de Software** enfocado en crear soluciones tecnológicas eficientes y seguras. Me encanta explorar tanto el desarrollo Backend como el Frontend, conectar ba[...]
 
 ---
 
@@ -26,66 +26,23 @@ Un apasionado **Estudiante de Desarrollo de Software** enfocado en crear solucio
 
 ### 💻 Lenguajes de Programación
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55" />
-<br><strong>Java</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="55" height="55" />
-<br><strong>Kotlin</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="55" height="55" />
-<br><strong>Dart</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="55" height="55" />
-<br><strong>R</strong>
-</td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🗄️ Bases de Datos
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55" />
-<br><strong>MongoDB</strong>
-</td>
-</tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌐 Frameworks
 
-<table>
-<tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="55" height="55" />
-<br><strong>Django</strong>
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="55" height="55" />
-<br><strong>Android</strong>
-</td>
-</tr>
-</table>
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <!--
 **AlexLopezF04/AlexLopezF04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
