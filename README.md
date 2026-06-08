@@ -58,6 +58,11 @@ Un apasionado **Estudiante de Desarrollo de Software** enfocado en crear solucio
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 💾 Sistemas Operativos
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 <!--
 **AlexLopezF04/AlexLopezF04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
