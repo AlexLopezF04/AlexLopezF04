@@ -5,7 +5,7 @@
 **Tulcán, Ecuador** 📍
 
 
-Un apasionado **Estudiante de Desarrollo de Software** enfocado en crear soluciones tecnológicas eficientes y seguras. Me encanta explorar tanto el desarrollo Backend como el Frontend, conectar ba[...]
+Un apasionado **Estudiante de Desarrollo de Software** enfocado en crear soluciones tecnológicas eficientes y seguras. Me encanta explorar tanto el desarrollo Backend como el Frontend.
 
 ---
 
